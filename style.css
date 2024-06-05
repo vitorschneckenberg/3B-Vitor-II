@@ -1,0 +1,26 @@
+h2{
+    color: darkcyan;
+}
+
+body{
+     background-color: darkgreen ;
+     color: aquamarine;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     text-align: center;
+}
+
+header{
+    border-bottom: darkolivegreen;
+}
+
+footer{
+    border-top: cornflowerblue;
+}
+
+#nome-usuário{
+      font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
